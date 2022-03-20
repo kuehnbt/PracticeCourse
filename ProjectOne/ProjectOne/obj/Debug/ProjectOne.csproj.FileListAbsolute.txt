@@ -1,0 +1,8 @@
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\ProjectOne\ProjectOne\obj\Debug\ProjectOne.pdb

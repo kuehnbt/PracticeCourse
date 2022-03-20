@@ -1,0 +1,8 @@
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\bin\Debug\VariableExample.exe.config
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\bin\Debug\VariableExample.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\bin\Debug\VariableExample.pdb
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\obj\Debug\VariableExample.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\obj\Debug\VariableExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\obj\Debug\VariableExample.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\obj\Debug\VariableExample.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\VariableExample\VariableExample\obj\Debug\VariableExample.pdb
