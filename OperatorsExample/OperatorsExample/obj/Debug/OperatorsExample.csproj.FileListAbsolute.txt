@@ -1,0 +1,8 @@
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\bin\Debug\OperatorsExample.exe.config
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\bin\Debug\OperatorsExample.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\bin\Debug\OperatorsExample.pdb
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\obj\Debug\OperatorsExample.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\obj\Debug\OperatorsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\obj\Debug\OperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\obj\Debug\OperatorsExample.exe
+C:\Users\Ben\Desktop\c#\PracticeCourse\OperatorsExample\OperatorsExample\obj\Debug\OperatorsExample.pdb
